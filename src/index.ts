@@ -13,3 +13,4 @@ export { FromUtcPipe } from './from-utc.pipe';
 export { LocalTimePipe } from './local.pipe';
 export { LocalePipe } from './locale.pipe';
 export { ParseZonePipe } from './parse-zone.pipe';
+export { TimezonePipe } from './timezone.pipe';
